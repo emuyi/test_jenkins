@@ -6,4 +6,4 @@ class TestStringMethods:
 
     def test_split(self):
         s = 'hello world'
-        assert s.split() ==  ['hell', 'world']
+        assert s.split() ==  ['hello', 'world']
